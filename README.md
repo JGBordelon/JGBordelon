@@ -1,6 +1,8 @@
+
 Computer Science student at University of Louisiana at Lafayette.
 
-I am slowly creating and setting up older code repositories from my previous courses at ULL.
+I am slowly creating and setting up older code repositories for projects from my previous courses at ULL.
+
 
 I have a large amount of knowledge in:
   Python
