@@ -5,16 +5,16 @@ I am slowly creating and setting up older code repositories for projects from my
 
 
 I have a large amount of knowledge in:
-  Python
-  C#
-  .net
+  Python,
+  C#,
+  .net,
   Java
 I have an ok amount of knowledge in:
-  C
-  HTML
+  C,
+  HTML,
   SQL
 I have a small amount of knowledge in:
-  PHP
-  NoSQL
-  Visual Basic
+  PHP,
+  NoSQL,
+  Visual Basic,
   Excel
