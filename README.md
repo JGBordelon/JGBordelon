@@ -9,10 +9,12 @@ I have a large amount of knowledge in:
   C#,
   .net,
   Java
+
 I have an ok amount of knowledge in:
   C,
   HTML,
   SQL
+
 I have a small amount of knowledge in:
   PHP,
   NoSQL,
