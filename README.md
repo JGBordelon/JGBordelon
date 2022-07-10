@@ -1,7 +1,4 @@
-
-Computer Science student at University of Louisiana at Lafayette.
-
-I am slowly creating and setting up older code repositories for projects from my previous courses at ULL.
+Computer Science graduate from the University of Louisiana at Lafayette.
 
 
 I have a large amount of knowledge in:
